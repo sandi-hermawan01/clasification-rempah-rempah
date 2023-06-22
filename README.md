@@ -8,11 +8,15 @@ is an artificial intelligence that utilizes computer vision science, as the name
 - Lada
 - Pala
 
-With this AI, it is hoped that we can get to know more about Indonesian spices, but there are some suggestions if you want to develop it further:
-- You can make the Andaliman, Clove and Pepper dataset more unique and varied because these spices have many similarities in shape, so AI has difficulty distinguishing them if the dataset is not unique.
-
 Tech Stack:
 - Python
 - Streamlit
 - Tensorflow
 - Keras Model VGG16
+
+With this AI, it is hoped that we can get to know more about Indonesian spices, but there are some suggestions if you want to develop it further:
+- You can make the Andaliman, Clove and Pepper dataset more unique and varied because these spices have many similarities in shape, so AI has difficulty distinguishing them if the dataset is not unique.
+
+How to run:
+navigate to `/clasification-rempah-rempah`
+and run `streamlit run app.py`
